@@ -1,0 +1,79 @@
+body {
+	background-color: #fbfffb;
+	padding-left: 10px;
+	font-family: sans-serif;
+	padding top: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+header {
+	font-size: 100px;
+	padding top: 0px;
+}
+
+h1 {
+	font-size: 50px;
+	color: darkolivegreen;
+	text-decoration: underline;
+	padding-left: 10px;
+	
+}
+
+
+h2 {
+	color: green;
+	text-decoration: underline;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+h3 {
+	color: green;
+	text-decoration: underline;
+}
+
+hr {
+	color: white;
+	opacity: 0.5;
+	width: 500px
+	
+}
+
+p {
+	font-weight: bold;
+}
+
+.code {
+	color: mediumpurple;
+
+}
+
+table {
+		background-color: white;
+}
+
+table, th, td{
+	border: solid white 1px;
+	border-collapse: collapse;
+	height: 25px;
+}
+
+th {
+	font-weight: 900;
+	font-size: 20px;
+}
+
+tr:nth-child(even) {
+	background: #ededed
+}
+
+tr:nth-child(odd) {
+	background: #d4d4d4
+}
+
+
+
+td {
+	font-family: Lucida Console, Courier, monospace
+}
